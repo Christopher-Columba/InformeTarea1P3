@@ -63,7 +63,7 @@ Cuando se elabora una bobina a partir de cierto material, por ejemplo, alambre d
 
 Cuando se colocan muchas vueltas de alambre muy cerca una de otra en una bobina, cierta cantidad de capacitancia parásita, llamada capacitancia de devanado.
 
-**Repaso de la ley de Faraday
+**Repaso de la ley de Faraday**
 
 La cantidad de voltaje inducido en una bobina es directamente proporcional a la razón de cambio del campo magnético con respecto a la bobina.
 
